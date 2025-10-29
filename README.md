@@ -31,10 +31,9 @@
 
 ### 🌍 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/adithya-holla-2374a622b/"><img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the badge&logo=linkedin&logoColor=00FFAA"/></a>
+  <a href="https://www.linkedin.com/in/adithya-holla-2374a622b/"><img src="https://img.shields.io/badge/LinkedIn-1E1E2E?style=for-the-badge&logo=linkedin&logoColor=00FFAA"/></a>
   <a href="mailto:adithya.holla.2006@gmail.com"><img src="https://img.shields.io/badge/Email-1E1E2E?style=for-the-badge&logo=gmail&logoColor=FF6666"/></a>
 </p>
-
 ---
 
 ✨ *“Just building cool stuff and learning along the way.”* 🚀  
